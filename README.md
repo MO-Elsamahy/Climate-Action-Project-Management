@@ -5,7 +5,6 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Database Structure](#database-structure)
 - [Usage](#usage)
 - [License](#license)
