@@ -4,6 +4,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
+- [Database Diagram](#Database-Diagram)
 - [Features](#features)
 - [Database Structure](#database-structure)
 - [Usage](#usage)
@@ -11,6 +12,9 @@
 
 ## Overview
 The **Climate Action Project Management Database** provides a comprehensive solution to organize, monitor, and report on climate-related projects. It facilitates collaboration among stakeholders and ensures transparency and accountability through detailed schemas and tables.
+
+## Database Diagram
+![Database Diagram](image.png "Database Diagram")
 
 ## Features
 - **Project Tracking**: Track projects with detailed information on activities, budgets, and milestones.
